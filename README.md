@@ -1,19 +1,19 @@
 # Game-in-Netbeans-8.1
 
-El programa contiene dos personajes: Caballero - Mago
+The program contains two characters: Knight - Magician
 
-Ambos personajes tienen: Nivel de ataque - Nivel de defensa - Nivel de vida - Nombre
+Both characters have: Attack level - Defense level - Life level - Name
 
-El caballero tiene una función especial invocar relámpago
+The knight has a special function summon lightning
 
-El mago tiene una función especial de curar sus heridas y lanzar hechizos.
+The magician has a special function of healing his wounds and casting spells.
 
-Cuando se crea una instancia de la clase de caballero o mago, tienes que pasar sus parámetros de ataque, defensa y nivel de vida para crearlo.
+When you create an instance of the knight or mage class, you have to pass its attack, defense, and life level parameters to create it.
 
-El juego comienza con un enemigo que tiene el doble de niveles y es un tipo de caballero.
+The game starts with an enemy that has double levels and is a type of knight.
 
-El juego pregunta si quieren defenderse o atacar, si atacan invocan el poder con un número aleatorio y con este ataque bajan puntos de vida a su oponente.
+The game asks if they want to defend or attack, if they attack they invoke power with a random number and with this attack they lower their opponent's life points.
 
-A continuación, al azar su oponente pide atacar o defender, si ataca, el ataque hará un número aleatorio y se repetirá hasta que uno de los personajes alcance su nivel de vida a cero.
+Then your opponent randomly asks to attack or defend, if they attack, the attack will do a random number and will repeat until one of the characters reaches their life level to zero.
 
-El mago en cada turno puede elevar su nivel de vida en 1.
+The mage can raise his life level by 1 each turn.
