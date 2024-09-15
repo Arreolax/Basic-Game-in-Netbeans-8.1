@@ -1,4 +1,4 @@
-# Basic-Game-in-Netbeans-8.1
+# Basic-Game-in-Netbeans-8.2
 
 The program contains two characters: Knight - Wizard
 
